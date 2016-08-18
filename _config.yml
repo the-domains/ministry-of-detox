@@ -1,0 +1,28 @@
+name: Ministry of Detox
+favicon: null
+layout_spectrum: 0.6812333774287254
+typography_spectrum: 0.716578000690788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9083315248135477
+  lightness: 0.3004072194453329
+  saturation: 0.4579446795396507
+  rhythmicContrast: 0.5879320439416915
+purpose: []
